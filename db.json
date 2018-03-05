@@ -1,0 +1,31 @@
+{
+  "deals": [
+    {
+      "id": 1,
+      "title": "CinemaDeal",
+      "price": 1999,
+      "partner": {
+        "_id": "p1",
+        "name": "Partner 1 GmbH"
+      }
+    },
+    {
+      "id": 2,
+      "title": "LocalDeal",
+      "price": 999,
+      "partner": {
+        "_id": "p2",
+        "name": "Partner 2 GmbH"
+      }
+    },
+    {
+      "id": 3,
+      "title": "TravelDeal",
+      "price": 9999,
+      "partner": {
+        "_id": "p3",
+        "name": "Partner 3 GmbH"
+      }
+    }
+  ]
+}
