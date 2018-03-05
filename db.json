@@ -8,7 +8,7 @@
         "_id": "p1",
         "name": "Partner 1 GmbH",
         "email": "p1@gmail.com",
-        "website": "www.p1.de",
+        "website": "www.p1.de"
       }
     },
     {
@@ -19,7 +19,7 @@
         "_id": "p2",
         "name": "Partner 2 GmbH",
         "email": "p2@gmail.com",
-        "website": "www.p2.de",
+        "website": "www.p2.de"
       }
     },
     {
@@ -30,7 +30,7 @@
         "_id": "p3",
         "name": "Partner 3 GmbH",
         "email": "p3@gmail.com",
-        "website": "www.p3.de",
+        "website": "www.p3.de"
       }
     }
   ]
